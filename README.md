@@ -42,6 +42,14 @@ Iniciar o servidor
   yarn run dev
 ```
 
+### Rodar Teste
+
+```bash
+  npm run test
+  # ou
+  yarn run test
+```
+
 ![TESTS](./doc/screenshot_terminal.png)
 
 ## License
